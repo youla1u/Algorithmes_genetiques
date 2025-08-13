@@ -1,6 +1,5 @@
-# TP 3 — Algorithmes Génétiques  
-**Master M2 IMSD - Université de Lorraine**  
-**Année : 2018-2019**  
+# TP  — Algorithmes Génétiques  
+
 **Matière : Recherche Opérationnelle**
 
 ---
